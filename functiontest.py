@@ -1,4 +1,4 @@
-import main as m
+import function as m
 
 for i in range (101):
     m.functions.even_number(i)
